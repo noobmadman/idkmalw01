@@ -3,4 +3,10 @@ I recently learned that Python can do more than just coding. With the os module,
 
 I know I know this "malware" is not big deal but thats what I can make.
 
+DO NOT RUN THIS 
+DO NOT RUN THIS 
+DO NOT RUN THIS ONLY IN A VIRTUAL MACHINE IF YOU DON'T WANT TO LOSE YOUR FILES
+DO NOT RUN THIS 
+DO NOT RUN THIS
+
 (THE CODE IS IN THE "main.py" FILE)
